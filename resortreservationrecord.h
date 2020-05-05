@@ -1,3 +1,6 @@
+// Class ResortReservationRecord
+// Original author is and all rights reserved for Andrew Mclain @ SPU ECS
+
 #ifndef RESORTRESERVATIONRECORD_H
 #define RESORTRESERVATIONRECORD_H
 
